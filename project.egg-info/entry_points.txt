@@ -1,0 +1,3 @@
+[scrapy]
+settings = episode_guide.settings
+
